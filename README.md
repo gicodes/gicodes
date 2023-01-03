@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gicode(s)
 - ✨ I'm excellent with my js
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me: gicodes9@gmail.com
