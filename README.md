@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gicode(s)
-- ✨ I'm excellent with my js
-- 🌱 I’m currently learning ReactJs
+- ✨ I'm excellent with MERN
+- 🌱 I’m currently learning NextJs
 - 📫 How to reach me: gicodes9@gmail.com
