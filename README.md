@@ -1,6 +1,6 @@
-## Hello 👋, my name is Gideon
-
 #### Full-Stack Web Developer
+
+## Hello 👋, my name is Gideon
 
 ## I am
 
