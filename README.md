@@ -1,4 +1,10 @@
-- 👋 - Hi, I’m @gicode(s)
-- ✨ - I'm conversant with MERN
-- 🎯 - I’m currently learning NextJs
-- 📫 - How to reach me: gicodes9@gmail.com
+# 👋 Hi, my name is Gideon
+
+## I am
+
+- ✨ a software engineer with experience in object oriented programming and web architecture.
+
+- 🌱 conversant with MERN stack and currently learning Next.js && typeScript
+
+- 🎯 interested in writing clean and scalable codes, improving my niche and working in professional environments that take my career to the next level.
+
