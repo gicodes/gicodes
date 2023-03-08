@@ -1,4 +1,4 @@
-# Hello 👋, my name is Gideon
+## Hello 👋, my name is Gideon
 
 #### Full-Stack Web Developer
 
