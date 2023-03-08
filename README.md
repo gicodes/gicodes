@@ -10,7 +10,7 @@
 
 - 🎯 Interested in writing clean, scalable codes and working in professional environments that take my career to the next level.
 
-- 🌍 Reachable at gicodes9@gmail.com 
+- 📫 Reachable at gicodes9@gmail.com 
 
 
 ## My Tools and Tech-Stack include
