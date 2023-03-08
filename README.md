@@ -15,7 +15,7 @@
 
 ## My Tools and Tech-Stack include
 
-- Vanilla JavaScript (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Vanilla JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - MongoDB
 - Express.js
 - React.js
