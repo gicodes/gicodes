@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Gideon
+# Hello 👋, my name is Gideon
 
 ## I am
 
