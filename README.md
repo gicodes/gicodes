@@ -14,3 +14,19 @@
 
 
 ## My Tools and Tech-Stack include
+
+- Vanilla JavaScript 
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
+- Vercel
+- Firebase
+- Stripe
+- Netlify
+- Python
+
+- MySQL
+- 
+
