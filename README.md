@@ -15,7 +15,8 @@
 
 ## My Tools and Tech-Stack include
 
-- Vanilla JavaScript ![image](https://user-images.githubusercontent.com/104095690/223823596-3dea137c-e9d6-49f9-ad3b-055b0053b0de.png)
+![image](https://user-images.githubusercontent.com/104095690/223823596-3dea137c-e9d6-49f9-ad3b-055b0053b0de.png)
+
 - MongoDB
 - Express.js
 - React.js
