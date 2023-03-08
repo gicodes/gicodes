@@ -15,7 +15,7 @@
 
 ## My Tools and Tech-Stack include
 
-- Vanilla JavaScript[ https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Vanilla JavaScript (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - MongoDB
 - Express.js
 - React.js
