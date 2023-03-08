@@ -2,9 +2,13 @@
 
 ## I am
 
-- ✨ a software engineer with experience in object oriented programming and web architecture.
+- ✨ Enthusiastic about software engineering and web architecture.
 
-- 🌱 conversant with MERN stack and currently learning Next.js && typeScript
+- 🌱 Conversant with M.E.R.N stack and currently learning Next.js && typeScript.
 
-- 🎯 interested in writing clean and scalable codes, improving my niche and working in professional environments that take my career to the next level.
+- 🎯 Interested in writing clean, scalable codes and working in professional environments that take my career to the next level.
 
+- 🌍 Reachable at gicodes9@gmail.com 
+
+
+## My Tools and Tech-Stack include
