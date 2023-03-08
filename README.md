@@ -13,9 +13,7 @@
 - 📫 Reachable at gicodes9@gmail.com 
 
 
-## My Tools and Tech-Stack include
-
-* ![image](https://user-images.githubusercontent.com/104095690/223823851-13fde56a-0999-41eb-825c-06ae58aa431a.png)
+## My Tools and Tech-Stack include[image](https://user-images.githubusercontent.com/104095690/223823851-13fde56a-0999-41eb-825c-06ae58aa431a.png)
 
 #### ![image](https://user-images.githubusercontent.com/104095690/223823901-aa3c767e-8a52-4566-8606-ed6045add39d.png)
 
