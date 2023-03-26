@@ -4,7 +4,7 @@
 
 ## I am
 
-- ✨ Enthusiastic about software engineering and web architecture.
+- ✨ Enthusiastic about software and web architecture.
 
 - 🌱 Currently learning typeScript and Next JS.
 
