@@ -1,6 +1,8 @@
-#### Full-Stack Developer
-
 ## Hello 👋, my name is Gideon
+
+#### Full-Stack Developer
+• Web ✅ 
+• Mobile ☑️ 
 
 ## I am
 
