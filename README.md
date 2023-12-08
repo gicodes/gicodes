@@ -1,12 +1,12 @@
-#### Full-Stack Web Developer
+#### Full-Stack Developer: Web ✅ Mobile ✅ 
 
 ## Hello 👋, my name is Gideon
 
 ## I am
 
-- ✨ Enthusiastic about writing software programs.
+- ✨ Enthusiastic about writing software programs
 
-- ☁️ Currently learning AWS Cloud computing.
+- ☁️ Currently learning AWS Cloud computing
 
 - 📫 Reachable at gicodes9@gmail.com 
 
