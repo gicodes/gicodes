@@ -12,9 +12,6 @@
 
 - 📫 Reachable at gicodes9@gmail.com 
 
-• Web ✅ 
-• Mobile ☑️ 
-
 ## My Tools and Tech-Stack include
 <img src="https://user-images.githubusercontent.com/104095690/223823851-13fde56a-0999-41eb-825c-06ae58aa431a.png" width=50>  <img src="https://user-images.githubusercontent.com/104095690/223823901-aa3c767e-8a52-4566-8606-ed6045add39d.png" width=50>  <img src="https://user-images.githubusercontent.com/104095690/223824032-b76026c7-eb9f-41dd-ab1f-f54de09c98ed.png" width=50>  <img src="https://user-images.githubusercontent.com/104095690/223824138-c42b9f21-a470-4e46-a7ab-4f4eeddb3d27.png" width=50> 
 
