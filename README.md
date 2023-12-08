@@ -4,9 +4,9 @@
 
 ## I am
 
-- ✨ Enthusiastic about software and web architecture.
+- ✨ Enthusiastic about writing software programms.
 
-- 🌱 Currently learning typeScript and Next JS.
+- ☁️ Currently learning AWS Cloud computing.
 
 - 📫 Reachable at gicodes9@gmail.com 
 
