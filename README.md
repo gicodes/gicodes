@@ -4,7 +4,7 @@
 
 ## I am
 
-- ✨ Enthusiastic about writing software programms.
+- ✨ Enthusiastic about writing software programs.
 
 - ☁️ Currently learning AWS Cloud computing.
 
