@@ -4,7 +4,7 @@
 • Web ✅ 
 • Mobile ☑️ 
 
-## I am
+## I am ...
 
 - ✨ Enthusiastic about writing software programs
 
