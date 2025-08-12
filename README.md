@@ -29,16 +29,16 @@ I believe in **clarity**, **craftsmanship**, and **shipping fast** without break
 ---
 
 ## 📊 Stats & Streaks
-![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gideonchino&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gideonchino&layout=compact&theme=radical)
+![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gicodes&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gicodes&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect  
-- **Portfolio:** _coming soon_  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
+- **Portfolio:** [gicodes.com](.com)
+- **Email:** [gicodes9@gmail.com](https://www.gicodes9@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/gideon-iduma-5311445a/](https://www.linkedin.com/in/gideon-iduma-5311445a/)  
+- **Twitter/X:** [@pappichino](https://twitter.com/pappichino)  
 
 ---
 
