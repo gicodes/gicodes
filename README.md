@@ -9,7 +9,7 @@ I believe in **clarity**, **craftsmanship**, and **shipping fast** without break
 
 ## 💡 About Me  
 - 🗣 Fluent in **English** & **JavaScript** (and sarcasm, sometimes).  
-- ⚡ I build with **Vanilla JS**, **React**, **Next.js**, **Node.js**, **Express**, **TypeScript**, and **more**.  
+- ⚡ I build with **React**, **Next.js**, **Node.js + Express**, **TypeScript**, **Python3** and **more**.  
 - 📱 I create for **Web** ✅ and dabble in **Mobile** ☑️.  
 - 💭 Dreaming of building my own **framework** someday.  
 - 📍 Based in Nigeria, working globally.
